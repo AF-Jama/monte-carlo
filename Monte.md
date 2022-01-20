@@ -8,7 +8,7 @@ The value of pi can be approximated via the below equation
 \[pi = \frac{Number of hits}{Total Number of points}\]
 As the number of points increases, the value of pi becomes more accurate due to the increased number of data points
 
-# Technology used
+# Technologies used
 
 - Python
 
